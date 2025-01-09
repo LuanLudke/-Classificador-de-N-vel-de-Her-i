@@ -1,5 +1,6 @@
 // Solicita o nome do personagem
-const personagem = prompt("Por favor, insira o nome de um personagem:");
+console.log("Por favor, insira o nome de um personagem:");
+const personagem = "Ash"
 
 // Verifica se o personagem foi escolhido
 if (personagem) {
